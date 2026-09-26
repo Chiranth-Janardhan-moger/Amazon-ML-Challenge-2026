@@ -121,8 +121,8 @@ To enforce candidate uniqueness and prevent false positives on singletons, the a
 Clone the repository and install required packages:
 
 ```bash
-git clone https://github.com/Chiranth-Janardhan-moger/Amazon-ML-Challenge-2026-Business-Entity-Resolution.git
-cd Amazon-ML-Challenge-2026-Business-Entity-Resolution
+git clone https://github.com/Chiranth-Janardhan-moger/Amazon-ML-Challenge-2026.git
+cd Amazon-ML-Challenge-2026
 pip install -r requirements.txt
 ```
 
