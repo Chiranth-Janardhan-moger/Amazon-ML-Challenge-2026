@@ -1,0 +1,23 @@
+{
+  "submission_id": "1st_try",
+  "created_at": "2026-09-25 10:46:52",
+  "pipeline": "Precision-First RapidFuzz Composite Matcher",
+  "parameters": {
+    "brand_threshold": 0.70,
+    "addr_threshold": 0.55,
+    "max_candidates": 35,
+    "country_partitioned": true
+  },
+  "statistics": {
+    "total_s1_entities": 1732544,
+    "non_empty_matches": 1316348,
+    "singletons_empty": 416196,
+    "validation_status": "PASS (exit 0)"
+  },
+  "files": {
+    "matching_tsv": "matching_results.tsv",
+    "candidate_tsv": "candidate_pairs.tsv",
+    "submission_zip": "submission_v1.zip"
+  },
+  "status": "Uploaded to Unstop Day 1, awaiting leaderboard score"
+}

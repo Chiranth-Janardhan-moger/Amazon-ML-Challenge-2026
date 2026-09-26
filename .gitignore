@@ -1,0 +1,30 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Large Submission Archives (>100 MB)
+*.zip
+
+# Intermediate output directories
+output/
+
+# Full raw competition datasets (>100 MB per file)
+dataset/train/
+dataset/test/
+
+# Large result TSVs (>100 MB per file)
+results/*/*.tsv
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Logs and runtime artifacts
+*.log
+.DS_Store
+Thumbs.db

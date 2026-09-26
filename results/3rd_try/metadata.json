@@ -1,0 +1,18 @@
+{
+  "submission_name": "submission_v3",
+  "pipeline_version": "v24_production",
+  "decision_threshold": 0.50,
+  "model": "models/lgbm_v4.txt",
+  "num_features": 28,
+  "total_entities_processed": 1732544,
+  "total_matches_generated": 7049586,
+  "average_matches_per_entity": 4.069,
+  "singletons_protected": 65375,
+  "validator_status": "PASS",
+  "execution_summary": {
+    "france_seconds": 993.70,
+    "us_seconds": 2157.72,
+    "india_seconds": 19433.77,
+    "total_seconds": 22653.98
+  }
+}
